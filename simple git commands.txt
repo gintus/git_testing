@@ -3,3 +3,6 @@ git add "specific file" or "." - saves all files
 git commit -m 'Initial project version' - commits files and we need -m is for message describing what changes were done
 git remote add origin ...  ideda kaip suprantu i staging pointa github, sitas gal tik karta reikalingas kai sukuri nauja repository
 git push -u origin master - ikelia failus i github
+git checkout -b "najas branch name" - sukuria nauja branch git
+git branch - parodo tavo branchus ir parodo kuris active (zalias)
+git push origin "branch pavadinimas" - ikelia tavo git sukurta branch i github
