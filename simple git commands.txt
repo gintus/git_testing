@@ -1,0 +1,5 @@
+git init - initialize empty git folder
+git add "specific file" or "." - saves all files
+git commit -m 'Initial project version' - commits files and we need -m is for message describing what changes were done
+git remote add origin ...  ideda kaip suprantu i staging pointa github
+git push -u origin master - ikelia failus i github
